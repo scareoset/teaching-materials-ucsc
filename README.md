@@ -2,7 +2,7 @@
 li/st of materials for the courses i teach at ucsc
 
 current courses:
--   [artg 40-02 designing experiences](https://google.com)
+-   [artg 40-02 designing experiences](https://github.com/scareoset/teaching-materials-ucsc/tree/main/artg%2040)
 
 past courses:
 -   artg 80g visual communication and interaction design
